@@ -5,7 +5,7 @@ permalink: /contact
 comments: false
 ---
 
-<form action="https://formspree.io/{{site.email}}" method="POST">    
+<form action="https://formspree.io/f/xwkaellb" method="POST">    
 <p class="mb-4">{{site.name}} ilet iletişim için formu doldurun. Mümkün olan en kısa sürede size döneceğiz!</p>
 <div class="form-group row">
 <div class="col-md-6">
