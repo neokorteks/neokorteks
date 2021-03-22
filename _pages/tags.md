@@ -1,5 +1,5 @@
 ---
 layout: tags
-title: Tags
+title: Etiketler
 permalink: /tags
 ---
