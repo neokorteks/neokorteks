@@ -24,3 +24,4 @@ Neokorteks internet sitesi sürdürülebilir bir dünya için internet sitelerin
 **İletişim formu:** [FormSpree](https://formspree.io/)
 **Yorumlar:** [Disqus](http://disqus.com/)
 **Bülten:** [Mailchimp](https://mailchimp.com/)
+**Mail Exchanger:** [Yandex](https://yandex.com.tr)
