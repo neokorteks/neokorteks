@@ -16,6 +16,7 @@ Neokorteks internet sitesi sürdürülebilir bir dünya için internet sitelerin
 ## Künye
 **Tema:** [Memoirs](https://www.wowthemes.net/memoirs-free-jekyll-theme/)
 **Altyapı:** [Jekyll](http://jekyllrb.com/)
+**Logo:** [Flaticon](https://www.flaticon.com/free-icon/n-logo_12583)
 **Hazırlayanlar:** [Tolga Altaş](https://tolgaaltas.com) ve [Efe Kaan Altaş](https://vero.co/efekaanaltas)
 **Alanadı sağlayıcısı:** [dot.tk](https://www.dot.tk/)
 **Barındırma sağlayıcısı:** [GitHub Pages](https://pages.github.com/)
