@@ -31,3 +31,11 @@ Güneş, Merkür ile Venüs’ü hatta muhtemelen Dünyayı da yutacak ve sönec
 Yok oluşu bu şekilde tahmin edilse de, Güneş var olduğu sürece manyetik
 aktiviteleri süreceği için güneş lekeleri de güneş ile birlikte var olmaya devam
 edecektir.
+
+## KAYNAKÇA
+- [Güneş Lekesi (Sunspot)](https://www.gunesfizigi.com/gunes-lekesi-sunspot/#:~:text=G%C3%BCne%C5%9F%20lekeleri%20konusunda%20ilk%20yay%C4%B1n,kutup%20b%C3%B6lgelerinde%
+20ise%20bulunmad%C4%B1%C4%9F%C4%B1n%C4%B1%20belirtmi%C5%9Ftir)
+- [Güneş'teki Siyah Noktalar Nedir?](https://evrimagaci.org/gunes-lekeleri-gunesteki-siyah-noktalar-nedir-4579)
+- [Güneş'in Temel Özellikleri](https://www.gunesfizigi.com/gunesin-temel-ozellikleri/)
+- [Güneş Lekeleri Wikipedia](https://tr.wikipedia.org/wiki/G%C3%BCne%C5%9F_lekeleri#:~:text=%C4%B0lk%20g%C3%B6zlemler,-John%20of%20Worcester&text=G%C3%BCn%C3%BCm%C3%BCze%20ula%C5%9Fan%20en%20eski%20g%C3%BCne%C5%9F,De%20taraf%C4%B1ndan%20g%C3%B6kbilim%20katalo%C4%9Funa%20ge%C3%A7irilmi%C5%9Ftir)
+- [Güneş'in Evrimi](https://evrimagaci.org/gunesin-evrimi-gunes-nasil-var-oldu-nasil-yok-olacak-8400)
