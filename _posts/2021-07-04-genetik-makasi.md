@@ -64,9 +64,9 @@ dayanıklı buğday ve pirinç yapmak için kullandılar. Ayrıca boynuzsuz sı
 zenginleştirilmiş tatlı portakalların mühendisliğinde de ilerleme kaydetmişlerdir.
 
 
-![Emmanuelle Charpentier (solda) ve Jennifer Doudna uzun süredir birlikte çalışıyor.](https://github.com/neokorteks/neokorteks/blob/master/assets/images/ege%20gen%C3%A73.png?raw=true) Teknolojinin en güzel sonuçlarından biri ise Emmanuelle
+![Emmanuelle Charpentier (solda) ve Jennifer Doudna uzun süredir birlikte çalışıyor.](https://github.com/neokorteks/neokorteks/blob/master/assets/images/ege%20gen%C3%A73.png?raw=true)
 
-Charpentier ve Jennifer Doudna, gen biçimlendirme
+Teknolojinin en güzel sonuçlarından biri ise Emmanuelle Charpentier ve Jennifer Doudna, gen biçimlendirme
 teknolojisindeki çalışmalarıyla 2020 Nobel Kimya Ödülünü
 paylaşan ilk kadın bilim insanları olmuştur.
 
