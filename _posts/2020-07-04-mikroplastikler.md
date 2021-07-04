@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "P vs NP"
+title:  "Mikroplastikler"
 author: efe
 categories: [ Lifestyle ]
 image: assets/images/3.jpg
