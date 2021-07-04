@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
+title:  "DNA ve XOX"
 author: efe
 categories: [ Lifestyle ]
 image: assets/images/3.jpg
