@@ -13,7 +13,7 @@ CRISPR/Cas9 tekniği, bakteri ve virüsler arasındaki etkileşimlerin araştı
 
 ![](https://github.com/neokorteks/neokorteks/blob/master/assets/images/ege%20gen%C3%A71.jpg?raw=true)
 
-**CRISPR Nasıl Çalışır?**
+## CRISPR Nasıl Çalışır?
 Genel hatları ile sistemi şu şekilde özetleyebiliriz: Öncelikle organizma bir virüs tarafından enfekte edilir. Ardından bu virüsün
 DNA’sı hücre tarafından parçalanır ve bu parçalar arasından bir ön-aralık (protospacer) geni seçilir. Seçilen bu gen çeşitli
 proteinler tarafından işlendikten sonra CRISPR lokusunda lider genin hemen sonrasına, yeni bir tekrar geni ile birlikte eklenir
