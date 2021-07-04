@@ -27,6 +27,26 @@ authors:
     email: cengizarda2005@gmail.com
     twitter: https://twitter.com/Arda_cngz
     description: "Neokorteks'te araştırmacı, bilim meraklısı ve dil bilimci."
+  zeynepyaman:
+    name: Zeynep Yaman
+    display_name: Zeynep Yaman
+    avatar: 'assets/images/zeynepyaman.jpg'
+    email: zeynepyaman7788@gmail.com 
+    twitter: https://twitter.com/Zeyneppyamnn
+    description: "Fantastik roman okuyucusu. Hayali Koç Üniversite’sinde Moleküler Biyoloji ve Genetik Mühendisliği okumak."
+  asude:
+    name: Asude Kandazoğlu
+    display_name: Asude Kandazoğlu
+    avatar: 'assets/images/asudekandazoglu.jpg'
+    email: asdkndzgl@gmail.com
+    twitter: https://twitter.com/Zeyneppyamnn
+    description: "Coğrafyacı, fizikçi ve filozof. Boş zamanlarında ressam."
+  nermininan:
+    name: Nermin İnan
+    display_name: Nermin İnan
+    avatar: 'assets/images/nermininan.png'
+    email: nermin_inan@hotmail.com
+    description: "Biyoloji öğretmeni. Neokorteks'in fikir babası."
 
 # Plugins
 plugins:
