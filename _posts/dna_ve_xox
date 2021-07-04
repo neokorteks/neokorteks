@@ -5,7 +5,7 @@ author: efe
 categories: [ Lifestyle ]
 image: assets/images/3.jpg
 beforetoc: "Prism highlighter is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post. Tocs is also enabled as you can see in summary."
-toc: false
+toc: true
 ---
 
 Kolombiya Üniversite ve New Mexico Üniversitesi’ndeki araştırmacılar 2006 yılında MAYA-II adında bir bilgisayar geliştirdiler. Ancak bu bilgisayar sıradan bir bilgisayar değildi. Çünkü DNA ile çalışıyordu. Günümüzde elektrikle çalışan bilgisayarlara sahibiz ve bunların çalışma mantığı elektriğin var ya da yok olmasına dayanıyor. MAYA-II ise DNA bilgisayarı, yani kimyasal bir bilgisayar. Bu durumda elektrik ya da sinyalin var ya da yok olmasını kullanamayız. Saf kimyaya dayanan bir sistem geliştirmemiz gerekir.  Gelin beraber kimyasal makineleri, ya da moleküler makineler, inceleyelim.
