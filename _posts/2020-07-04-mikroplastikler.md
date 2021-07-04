@@ -20,9 +20,10 @@ Tabii ki mikroplastikler sadece pet şişeler vasıtasıyla bulaşmıyor. Hayat�
 Sonuç olarak plastik kullanımı azaltılmazsa ve atık plastikler geri dönüşüm kutuları yerine doğal çevreye atılmaya devam edilirse mikroplastikler hayatımızda olmayı sürdürecektir. 
 
 ## KAYNAKÇA
-- [How to Program DNA Like We Do Computers](https://www.kurzweilai.net/how-to-program-dna-like-we-do-computers)
-- [DNA Computer is Unbeateable at Tic Tac Toe](https://www.newscientist.com/article/dn10310-dna-computer-is-unbeatable-at-tic-tac-toe/)
-- [Chemical Oscillator](https://en.wikipedia.org/wiki/Chemical_oscillator)
-- [Molecular Machine](https://en.wikipedia.org/wiki/Molecular_machine)
-- [Molecular Assembler](https://en.wikipedia.org/wiki/Molecular_assembler)
-- [MAYA II](https://en.wikipedia.org/wiki/MAYA-II)
+- Yurtsever, M . (2019). Nano- ve Mikroplastik’lerin İnsan Sağlığı ve Ekosistem Üzerindeki Olası Etkileri . Menba Kastamonu Üniversitesi Su Ürünleri Fakültesi Dergisi , 5 (2) , 17-24 . Retrieved from Yurtsever, M.  
+- Yurtsever, M . (2018). Abiyotik bir su ürünü olan sofra tuzunda mikroplastik kirliliği tehlikesi . Ege 
+- Journal of Fisheries and Aquatic Sciences , 35 (3) , 243-249 . DOI: 10.12714/egejfas.2018.35.3.03 
+TUNÇELLİ, İ. C., & ERKAN, N. (2020). Gıda güvenliği açısından su ürünlerinde mikroplastik riski ve araştırma yöntemleri. Aquatic Research, 4(1), 73-87. 
+- [Biberonlar Mama Hazırlanırken Mikroplastikler Salıyor](https://www.aa.com.tr/tr/saglik/biberonlar-mama-hazirlanirken-mikroplastikler-saliyor/2012585  )
+- [İnsan Plasentasında İlk Kez Mikroplastik Bulundu](https://evrimagaci.org/insan-plasentasinda-ilk-kez-mikroplastik-bulundu-10255#  )
+
