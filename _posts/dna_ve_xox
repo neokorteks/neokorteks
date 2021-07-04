@@ -5,8 +5,9 @@ author: efe
 categories: [ Lifestyle ]
 image: assets/images/3.jpg
 beforetoc: "Prism highlighter is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post. Tocs is also enabled as you can see in summary."
-toc: true
+toc: false
 ---
+
 Kolombiya Üniversite ve New Mexico Üniversitesi’ndeki araştırmacılar 2006 yılında MAYA-II adında bir bilgisayar geliştirdiler. Ancak bu bilgisayar sıradan bir bilgisayar değildi. Çünkü DNA ile çalışıyordu. Günümüzde elektrikle çalışan bilgisayarlara sahibiz ve bunların çalışma mantığı elektriğin var ya da yok olmasına dayanıyor. MAYA-II ise DNA bilgisayarı, yani kimyasal bir bilgisayar. Bu durumda elektrik ya da sinyalin var ya da yok olmasını kullanamayız. Saf kimyaya dayanan bir sistem geliştirmemiz gerekir.  Gelin beraber kimyasal makineleri, ya da moleküler makineler, inceleyelim.
 Moleküler makineler, belirli uyarıcılara karşı yarı-mekanik hareket ile cevap veren moleküler bileşenlerdir. Her ne kadar yabancı gözükseler de aslında bizler de birer moleküler makineyiz. Hücrelerimiz belirli kimyasal seviyelerine göre proteinler ve başka maddelerle çeşitli işlemler uygulamakta. En basit örnek olarak DNA’nın eşlenmesi verilebilir. Hücre bölünmesine yaklaşan hücre belirli enzimler salgılayarak DNA’nın kendini eşlemesini sağlar. 
 Moleküler makineleri oluşturmak için moleküler çeviricilere ihtiyaç duyulmaktadır. Moleküler çeviriciler, K. Eric Dexler tarafından atomik hassasiyetle reaktif molekülleri konumlandırarak kimyasal tepkimeleri yönlendiren cihazlar olarak tanımlanmıştır. Ribozom organeli bu tanıma uymaktadır. Çünkü ribozomlar mesajcı RNA’dan(mRNA) aldıkları talimatlara göre belirli aminoasit dizileri oluşturmaktadır. 
