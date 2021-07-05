@@ -3,7 +3,7 @@ layout: post
 title:  "İnsanlık Adına Aşı Lütfen!"
 author: nermininan
 categories: [ Lifestyle ]
-image: assets/images/3.jpg
+image: https://images.unsplash.com/photo-1608326389386-0305acbe600f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dmFjY2luZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
 beforetoc: ""
 toc: false
 ---
