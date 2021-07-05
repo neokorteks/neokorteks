@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Değişmeyen Tek Şey Değişim Midir?"
+title:  "Paralel Evrenler"
 author: efe
 categories: [ Lifestyle ]
 image: assets/images/3.jpg
