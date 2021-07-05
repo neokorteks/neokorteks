@@ -3,7 +3,7 @@ layout: post
 title:  "Özlem Türeci ve Uğur Şahin"
 author: efe
 categories: [ Lifestyle ]
-image: assets/images/3.jpg
+image: https://github.com/neokorteks/neokorteks/blob/master/assets/images/%C3%B6zlem%20t%C3%BCreci%20ve%20u%C4%9Fur%20%C5%9Fahin.png?raw=true
 beforetoc: ""
 toc: false
 ---
