@@ -3,7 +3,7 @@ layout: post
 title:  "Obsesif Kompulsif Bozukluk"
 author: efe
 categories: [ Lifestyle ]
-image: assets/images/3.jpg
+image: https://github.com/neokorteks/neokorteks/blob/master/assets/images/obsesif%20kompulsif.png?raw=true
 beforetoc: ""
 toc: false
 ---
