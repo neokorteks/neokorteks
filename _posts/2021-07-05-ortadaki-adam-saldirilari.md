@@ -3,7 +3,7 @@ layout: post
 title: "Ortadaki Adam Saldırıları ve Açık Ağlarda Güvenlik Sağlamak"
 author: efe
 categories: [ Lifestyle ]
-image: ![image](https://user-images.githubusercontent.com/86926775/124506635-c1410080-ddd4-11eb-8145-e5531675e0fd.png)
+image: https://user-images.githubusercontent.com/86926775/124506635-c1410080-ddd4-11eb-8145-e5531675e0fd.png
 beforetoc: ""
 toc: false
 ---
