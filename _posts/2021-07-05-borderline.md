@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Değişmeyen Tek Şey Değişim Midir?"
+title:  "Borderline"
 author: efe
 categories: [ Lifestyle ]
 image: assets/images/3.jpg
