@@ -40,5 +40,5 @@ toc: false
 
 
 ## KAYNAKÇA
-- [Evrim Ağacı](evrimagaci.org)
-- [BBC](bbc.com)
+- [Medicalpark - Borderline Kişilik Bozukluğu Nedir?](https://www.medicalpark.com.tr/borderline-kisilik-bozuklugu/hg-2485)
+- [Prof. Dr. İrem Yaluğ Ulubil - Borderline Kişilik Bozuklukları](https://www.iremyalugulubil.com/tr/article/desc/46768/borderline-kisilik-bozukluklari.html)
