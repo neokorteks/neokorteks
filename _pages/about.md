@@ -3,7 +3,7 @@ layout: page
 title: Bilinçli Bilim dergisi Neokorteks 
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/thumbnail.png
 imageshadow: true
 ---
 
