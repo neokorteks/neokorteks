@@ -3,7 +3,7 @@ layout: post
 title:  "Pandeminin İnsan Psikolojisine Etkisi"
 author: efe
 categories: [ Lifestyle ]
-image: assets/images/3.jpg
+image: https://images.unsplash.com/photo-1592496001020-d31bd830651f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHN5Y2hvbG9neXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
 beforetoc: ""
 toc: false
 ---
