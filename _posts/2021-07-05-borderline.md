@@ -3,7 +3,7 @@ layout: post
 title:  "Borderline"
 author: efe
 categories: [ Lifestyle ]
-image: assets/images/3.jpg
+image: https://images.unsplash.com/photo-1605595988901-3d06601c38ad?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFnZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
 beforetoc: ""
 toc: false
 ---
