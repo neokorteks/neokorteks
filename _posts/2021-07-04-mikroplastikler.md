@@ -3,7 +3,7 @@ layout: post
 title:  "Mikroplastikler"
 author: efe
 categories: [ Lifestyle ]
-image: assets/images/3.jpg
+image: https://unsplash.com/photos/NXyXNl5LTqM
 beforetoc: ""
 toc: false
 ---
