@@ -3,7 +3,7 @@ layout: post
 title:  "Değişmeyen Tek Şey Değişim Midir?"
 author: efe
 categories: [ Lifestyle ]
-image: assets/images/3.jpg
+image: https://media.istockphoto.com/photos/caveman-sitting-outdoors-using-stone-tablet-with-touchscreen-picture-id504680989?k=6&m=504680989&s=612x612&w=0&h=IH6aTyN3uxxJcdsteD2ZOo6Den7Yl1iC-i3BTorgydI=
 beforetoc: ""
 toc: false
 ---
