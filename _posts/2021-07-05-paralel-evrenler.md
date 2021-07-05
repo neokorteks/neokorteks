@@ -3,7 +3,7 @@ layout: post
 title:  "Paralel Evrenler"
 author: efe
 categories: [ Lifestyle ]
-image: assets/images/3.jpg
+image: https://images.unsplash.com/photo-1504333638930-c8787321eee0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fHBhcmFsbGVsJTIwdW5pdmVyc2V8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
 beforetoc: ""
 toc: false
 ---
