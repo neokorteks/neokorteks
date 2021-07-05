@@ -17,7 +17,7 @@ Neokorteks internet sitesi sürdürülebilir bir dünya için internet sitelerin
 - **Tema:** [Memoirs](https://www.wowthemes.net/memoirs-free-jekyll-theme/)
 - **Altyapı:** [Jekyll](http://jekyllrb.com/)
 - **Logo:** [Flaticon by Freepik](https://www.flaticon.com/free-icon/n-logo_12583)
-- **Hazırlayanlar:** [Tolga Altaş](https://tolgaaltas.com) ve [Efe Kaan Altaş](https://vero.co/efekaanaltas)
+- **Hazırlayanlar:** [Tolga Altaş](https://tolgaaltas.com), [Efe Kaan Altaş](https://vero.co/efekaanaltas) ve [Arda Cengiz](https://twitter.com/Arda_cngz)
 - **Alanadı sağlayıcısı:** [dot.tk](https://www.dot.tk/)
 - **Barındırma sağlayıcısı:** [GitHub Pages](https://pages.github.com/)
 - **CDN:** [CloudFlare](https://cloudflare.com)
