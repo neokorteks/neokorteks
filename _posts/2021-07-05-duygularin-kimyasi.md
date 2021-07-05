@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Duygularımızın Kimyasi"
+title:  "Duygularımızın Kimyası"
 author: asude
 categories: [ Lifestyle ]
-image: assets/images/3.jpg
+image: https://images.unsplash.com/photo-1597585079079-e0bc92fdcfa4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2VudGltZW50c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
 beforetoc: ""
 toc: false
 ---
