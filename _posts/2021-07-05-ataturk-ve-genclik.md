@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Atatürk ve Gençlik"
-author: efe
+author: mehlikacakir
 categories: [ Lifestyle ]
 image: https://github.com/neokorteks/neokorteks/blob/master/assets/images/atat%C3%BCrk%20ve%20gen%C3%A7lik.png?raw=true
 beforetoc: "1924 yılı Ekim ayındaydık. Büyük zaferlerden sonra Atatürk iki girişimde bulunmuştu. Birisi İzmir’de topladığı İktisat Kongresi ki ‘ Milli ekonomi’ sözü tarihimizde ilk defa bu kongrede ortaya atılmıştı. İkinci hareket Avrupa’ya ilk öğrenci kafilesinin gönderilmesiydi.Bu ilk kafilede Avrupa’ya gitmek üzere 150 kişi içinden 13 kişi seçilmişti…Yola çıkacağımız gündü. Beni Berlin Üniversitesine yolluyorlardı. O zaman Berlin’e Balkanlardan ve Polonya’dan geçen bir trenle gidilirdi. Trene bineceğim sırada bir telgraf müvezzinin ‘ Mahmut Sadi’ diye avaz avaz bağırdığını duydum. Elime bir telgraf tutuşturuldu. İmza Milli Eğitim Bakanı’nındı. Atatürk’ün emri ile çekilmişti. İçinde hatırımdan çıkmayan şu cümle vardı:“Sizi birer kıvılcım olarak gönderiyoruz. Gür alevler halinde dönmelisiniz.“ Hangi derse girsem, hangi imtihandan çıksam kulaklarımda bu cümle çınlardı. Yol boyunca içimde alevden bir şevk ve omuzlarımda dağlar gibi bir sorumluluk taşıyordum. Bu ses artık ömrüm boyunca beni hiç bırakmayacaktı.
