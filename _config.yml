@@ -61,6 +61,39 @@ authors:
     email: nisaturgut43@gmail.com
     twitter: https://twitter.com/nisaa_turgut
     description: " "
+  tahabiyikli:
+    name: Talip Taha Bıyıklı
+    display_name: Talip Taha Bıyıklı
+    avatar: 'assets/images/avatar.png'
+    email: taliptaha06@gmail.com
+    twitter: https://twitter.com/tahabykl
+    description: "güvenlik araştırmacısı"
+  egegenc:
+    name: Ege Genç
+    display_name: Ege Genç
+    avatar: 'assets/images/avatar.png'
+    email: gencege5506@gmail.com
+    twitter: https://twitter.com/egegencc
+    description: "Neokorteks Yazarı."
+  sevvalbulut:
+    name: Şevval Deniz Bulut
+    display_name: Şevval Deniz Bulut
+    avatar: 'assets/images/avatar.png'
+    email: sevvaldenizbulut@gmail.com
+    description: "Neokorteks'te yazar; uzay, kuantum fiziği ve biyolojiye ilgili."
+  mehlikacakir:
+    name: Mehlika İclal Çakır
+    display_name: Mehlika İclal Çakır
+    avatar: 'assets/images/avatar.png'
+    email: mehlikaiclal52@gmail.com
+    description: " "
+  pinarertan:
+    name: Pınar Ertan
+    display_name: Pınar Ertan
+    avatar: 'assets/images/avatar.png'
+    email: Ertanpinar500@gmail.com
+    description: "Neokorteks dergisi yazarı, bilime meraklı bir öğrenci."
+  
 
 # Plugins
 plugins:
