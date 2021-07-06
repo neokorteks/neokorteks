@@ -87,12 +87,48 @@ authors:
     avatar: 'assets/images/avatar.png'
     email: mehlikaiclal52@gmail.com
     description: " "
-  pinarertan:
+ pinarertan:
     name: Pınar Ertan
     display_name: Pınar Ertan
     avatar: 'assets/images/avatar.png'
     email: Ertanpinar500@gmail.com
     description: "Neokorteks dergisi yazarı, bilime meraklı bir öğrenci."
+ caglagunduz:
+    name: Çağla Gündüz
+    display_name: Çağla Gündüz
+    avatar: 'assets/images/avatar.png'
+    email: musicmusic2855@gmail.com
+    description: "Müzik ve keman tutkunu. Kitap okumayı sever. Bilimsel araştırma meraklısı ve Neokorteks Dergisi yazarı."
+ cicekguzel:
+    name: Çiçek Güzel
+    display_name: Çiçek Güzel
+    avatar: 'assets/images/avatar.png'
+    email: cicekgz625@gmail.com
+    description: "Genetikle ilgili, Neokorteks'te araştırmacı"
+ ekin:
+    name: Ekin Şiar Bayer
+    display_name: Ekin Şiar Bayer
+    avatar: 'assets/images/avatar.png'
+    email: ekinsiarb@protonmail.com
+    description: "Siber güvenlik araştırmacısı, sporcu ve bilgisayar bilimleri ile ilgileniyor."
+ tubag:
+    name: Tuba Bağ
+    display_name: Tuba Bağ
+    avatar: 'assets/images/avatar.png'
+    email: tubag55@outlook.com
+    description: "Psikoloji ve bilime ilgili. Boş zamanlarını resim puzzle yapma gibi aktivitelerle geçiriyor."
+ kaansecgin:
+    name: Kaan SEÇGİN
+    display_name: Kaan SEÇGİN
+    avatar: 'assets/images/avatar.png'
+    email: kaansecgin785@gmail.com
+    description: "Samsun'un Çarşamba ilçesinde yaşıyor."
+ sati:
+    name: Satı Melike ŞİŞLİ 
+    display_name: Satı Melike ŞİŞLİ 
+    avatar: 'assets/images/avatar.png'
+    email: satimelikesisli@gmail.com 
+    description: "Neokorteks dergisinde yazı yazıyor. Psikoloji bilimine ilgili."
   
 
 # Plugins
