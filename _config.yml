@@ -39,18 +39,17 @@ authors:
     display_name: Asude Kandazoğlu
     avatar: 'assets/images/akandazoglu.jpg'
     email: asdkndzgl@gmail.com
-    twitter: https://twitter.com/Zeyneppyamnn
     description: "Coğrafyaya, fiziğe ve felsefeye ilgili. Boş zamanlarında resim yapıyor."
   nermininan:
     name: Nermin İnan
     display_name: Nermin İnan
     avatar: 'assets/images/ninan.png'
     email: nermin_inan@hotmail.com
-    twitter: https://twitter.com/Zeyneppyamnn
+    twitter: https://twitter.com/nermin_inan
     description: "Biyoloji öğretmeni. Neokorteks'in fikir babası."
   berkeaykel:
-    name: Berke Aykel
-    display_name: Berke Aykel
+    name: Berke Akyel
+    display_name: Berke Akyel
     avatar: 'assets/images/baykel.jpg'
     email: berkeakyel191@gmail.com
     twitter: https://twitter.com/AkyelBerke05
@@ -60,7 +59,7 @@ authors:
     display_name: Nisa Turgut
     avatar: 'assets/images/nturgut.jpg'
     email: nisaturgut43@gmail.com
-    twitter: https://twitter.com/nisaa_turgut?s=09
+    twitter: https://twitter.com/nisaa_turgut
     description: " "
 
 # Plugins
