@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Genetik Makası Crispr Çılgınlığı"
-author: efe
+author: egegenc
 categories: [ Lifestyle ]
 image: https://images.unsplash.com/photo-1595311182166-d63273ddc386?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fGRuYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
 beforetoc: ""
