@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Güneş Lekeleri"
-author: efe
+author: kaansecgin
 categories: [ Lifestyle ]
 image: https://images.unsplash.com/photo-1614642264762-d0a3b8bf3700?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzd8fHN1bnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
 beforetoc: ""
