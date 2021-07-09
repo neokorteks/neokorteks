@@ -11,7 +11,10 @@ Hakkında metni
 
 <a href="/contact" class="btn btn-dark"> İletişime geçin &rarr;</a>
 
-Neokorteks internet sitesi sürdürülebilir bir dünya için internet sitelerinin [%69'na kıyasla daha az karbon salınımı](https://www.websitecarbon.com/website/neokorteks-tk/) sağlamaktadır.
+Neokorteks internet sitesi sürdürülebilir bir dünya için internet sitelerinin [%79'na kıyasla daha az karbon salınımı](https://www.websitecarbon.com/website/neokorteks-tk/) sağlamaktadır.
+
+
+
 
 ## Künye
 - **Tema:** [Memoirs](https://www.wowthemes.net/memoirs-free-jekyll-theme/)
