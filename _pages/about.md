@@ -13,8 +13,11 @@ Hakkında metni
 
 Neokorteks internet sitesi sürdürülebilir bir dünya için internet sitelerinin [%79'na kıyasla daha az karbon salınımı](https://www.websitecarbon.com/website/neokorteks-tk/) sağlamaktadır.
 
+Bu dergi Samsun Garip Zeycan Yıldırım Fen Lisesi öğrencileri tarafından hazırlanmıştır.
 
-
+## Yönetmelik Ekibi
+- Nermin İnan
+- Nisa Turgut
 
 ## Künye
 - **Tema:** [Memoirs](https://www.wowthemes.net/memoirs-free-jekyll-theme/)
