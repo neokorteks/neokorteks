@@ -136,6 +136,10 @@ authors:
     display_name: 0 
     avatar: 'assets/images/avatar.png' 
     description: "Siteye henüz eklenmemiş yazarların yerini ısıtan bir köle."
+  tahaekin:
+    name: Talip Taha Bıyıklı ve Ekin Şiar Bayer
+    display_name: Talip Taha Bıyıklı ve Ekin Şiar Bayer
+    description: "Bu yazıyı [Talip Taha Bıyıklı](https://twitter.com/tahabykl) ve [Ekin Şiar Bayer](http://twitter.com/EkinBayer4) birlikte yazdı."
   
 
 # Plugins
