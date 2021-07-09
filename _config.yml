@@ -46,7 +46,7 @@ authors:
     avatar: 'assets/images/ninan.jpg'
     email: nermin_inan@hotmail.com
     twitter: https://twitter.com/nermin_inan
-    description: "Biyoloji öğretmeni. Neokorteks'in fikir babası."
+    description: "Biyoloji öğretmeni. Neokorteks'in kurucusu."
   berkeakyel:
     name: Berke Akyel
     display_name: Berke Akyel
@@ -131,6 +131,11 @@ authors:
     avatar: 'assets/images/satimelike.png'
     email: satimelikesisli@gmail.com 
     description: "Neokorteks dergisinde yazı yazıyor. Psikoloji bilimine ilgili."
+  dummy:
+    name: 0 
+    display_name: 0 
+    avatar: 'assets/images/avatar.png' 
+    description: "Siteye henüz eklenmemiş yazarların yerini ısıtan bir köle."
   
 
 # Plugins
