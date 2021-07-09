@@ -15,7 +15,9 @@ Neokorteks internet sitesi sürdürülebilir bir dünya için internet sitelerin
 
 Bu dergi Samsun Garip Zeycan Yıldırım Fen Lisesi öğrencileri tarafından hazırlanmıştır.
 
-**Kurucu Öğretmen:** Nermin İnan
+## Yönetmelik Ekibi
+- **Kurucu öğretmen:** Nermin İnan
+- **Kurucu öğrenci:** Nisa Turgut
 
 ## Künye
 - **Tema:** [Memoirs](https://www.wowthemes.net/memoirs-free-jekyll-theme/)
