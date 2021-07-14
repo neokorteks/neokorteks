@@ -9,10 +9,11 @@ toc: false
 ---
 Duygularımız günlük hayatımızda önemli yer tutar ve hayatımıza anlam katar.Duyguların tanımı olarak kısaca dış dünyadaki olayların iç dünyamızdaki etkisi denebilir.Bu yazıda bu etkileri konu alacağız.
   
-  Öncelikle uğruna bunca roman yazılmış ve çeşitli insan kültürlerinin bir parçası haline gelmiş olan duygularımızı rasyonalize edecek olursak, çeşitli kimyasalların tepkimeye girerek oluşturduklarının bize etkisi diyebiliriz. Bu yazıda mutluluk,kızgınlık ve korku gibi duygularımızın oluşumunu ve bize olan etkilerini inceleyeceğiz.
+Öncelikle uğruna bunca roman yazılmış ve çeşitli insan kültürlerinin bir parçası haline gelmiş olan duygularımızı rasyonalize edecek olursak, çeşitli kimyasalların tepkimeye girerek oluşturduklarının bize etkisi diyebiliriz. Bu yazıda mutluluk,kızgınlık ve korku gibi duygularımızın oluşumunu ve bize olan etkilerini inceleyeceğiz.
  
  ## Mutluluk
- Mutluluk için insanın hayatından tatmin olduğu zaman hissettiği duygudur diyebiliriz. Hayatımızı güzelleştiren ve her insanın hissettiği duygu nasıl oluşur? Beyinde mutluluğu etkileyen dört temel kimyasal vardır: dopamin, oksitosin, serotonin ve endorfin;
+ 
+Mutluluk için insanın hayatından tatmin olduğu zaman hissettiği duygudur diyebiliriz. Hayatımızı güzelleştiren ve her insanın hissettiği duygu nasıl oluşur? Beyinde mutluluğu etkileyen dört temel kimyasal vardır: dopamin, oksitosin, serotonin ve endorfin;
 
 -	Dopamin; Hedef odaklı davranışlardan ve her türlü zevk arayışından sorumludur. Bir hedef doğrultusunda yaptığımız çalışmalar dopamin seviyemizi artırır. Dopamin düşüklüğü olan insanlarda depresyon ve Parkinson hastalığı görülebilir. Ayrıca daha dışadönük ve kısıtlanmamış insanların dopamin seviyesinin daha yüksek olduğu kanıtlanmıştır. Dolayısıyla hedeflerinize ulaşmaya çalışırkenki kararlılığınızı artırmak istiyorsanız, dopamin seviyenizi artırmanız yardımcı olabilir. Dopamin seviyesini artırmak için genel olarak dengeli yaşamda gereken şeyleri yapmak yeterlidir(müzik dinlemek,egzersiz yapmak,yeterli derecede uyumak vb.). Bazı insanlar arasında dopamin seviyesini artırmak için uyuşturucu kullanmak yaygındır. Ancak uyuşturucu etkisiyle artan dopamin seviyesi vücudun dopamin üretimini azaltmasına sebep olur. Dolayısıyla uyuşturucunun etkisi geçtikten sonra vücut dopamin seviyesini artıracak bir dış etkiye ihtiyaç duyar ve böylece bağımlılık başlar. 
 
